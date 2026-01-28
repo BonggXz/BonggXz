@@ -1,23 +1,83 @@
-<!--
-Tips:
-1) Ganti semua placeholder: YOUR_NAME, YOUR_CITY, YOUR_EMAIL, dll.
-2) Pastikan repo ini PUBLIC dan namanya sama persis dengan username GitHub kamu (BonggXz).
--->
+<!-- ===== Banner ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=BonggXz&fontSize=52&fontAlignY=35" />
 
-<h1 align="center">Hi, I’m BonggXz 👋</h1>
-
+<!-- ===== Typing Mode ===== -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?lines=IoT%20Developer;Web%20Developer;Roblox%20Developer%20(Luau);Building%20real%20things%20with%20code&center=true&width=720&height=45" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=IoT%20Developer;Web%20Developer;Roblox%20Developer%20(Luau);Build%20%E2%86%92%20Ship%20%E2%86%92%20Iterate&center=true&width=900&height=48&font=Fira%20Code&pause=1100" alt="Typing SVG" />
+</p>
+
+<!-- ===== Quick badges ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BonggXz&style=flat-square&abbreviated=true" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/BonggXz?style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/BonggXz?style=flat-square" alt="Stars" />
+</p>
+
+<!-- ===== One-liner branding ===== -->
+<h3 align="center">IoT • Web • Roblox — Engineering systems that feel simple to use.</h3>
+
+---
+
+## Focus
+- **IoT**: device telemetry, MQTT pipelines, automation, dashboards
+- **Web**: API + frontend, admin panels, realtime UI
+- **Roblox (Luau)**: gameplay systems, UI, persistence, performance
+
+---
+
+## Stack (Icons)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,js,ts,nodejs,react,nextjs,tailwind,html,css,mysql,mongodb,docker,git&perline=8" />
 </p>
 
 <p align="center">
-  <img src="https://shields.io/badge/Focus-IoT%20%7C%20Web%20%7C%20Roblox-111827?style=for-the-badge" />
-  <img src="https://shields.io/badge/Location-YOUR_CITY-111827?style=for-the-badge" />
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=lua&perline=8" />
+</p>
+
+<!-- Extra “awesome” badges (optional) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+---
+
+## GitHub Signals
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BonggXz&show_icons=true&hide_title=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonggXz&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BonggXz" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BonggXz&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BonggXz&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## Connect
+<p align="center">
+  <a href="mailto:bonggxzz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bonggxzz%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.roblox.com/search/users?keyword=BonggXzz">
+    <img src="https://img.shields.io/badge/Roblox-BonggXzz-111827?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+</p>
+
+<!-- ===== Footer ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />  </a>
 </p>
 
 ---
