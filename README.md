@@ -26,7 +26,7 @@
 
 <!-- Tech Icons (clean + futuristic) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,js,ts,nodejs,react,nextjs,tailwind,html,css,mysql,mongodb,docker,git,lua&perline=9" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,js,ts,nodejs,react,nextjs,tailwind,html,css,mysql,mongodb,docker,git,lua&perline=9" />
 </p>
 
 <br/>
