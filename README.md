@@ -19,7 +19,7 @@
 
 <br />
 
-###  About me
+### ◈ About me
 
 I build across **IoT, web development, and Roblox** — connecting devices, interfaces, and interactive experiences. I enjoy turning ideas into useful systems with clear design and thoughtful details.
 
@@ -29,7 +29,7 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
 
 <br />
 
-###  Tech stack
+### ◈ Tech stack
 
 <p align="center"><sub>WEB & INTERFACES</sub></p>
 <p align="center">
@@ -48,35 +48,40 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
 
 <br />
 
-###  GitHub overview
+### ◈ GitHub overview
 
-<!-- Dynamic cards display the data available to their respective providers. -->
+<!-- Top-aligned cells keep cards aligned despite different intrinsic heights. -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BonggXz">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api?username=BonggXz&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=A78BFA&amp;text_color=CBD5E1&amp;hide_rank=true&amp;card_width=450&amp;custom_title=GitHub%20Overview" alt="GitHub statistics" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BonggXz?tab=repositories">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BonggXz&amp;layout=compact&amp;langs_count=6&amp;card_width=450&amp;hide_border=true&amp;border_radius=12&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;custom_title=Top%20Languages" alt="Top repository languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### ◈ Contribution activity
+
+<!-- Summary card replaces the unavailable streak and activity-graph services. -->
 <p align="center">
-  <a href="https://github.com/BonggXz">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=BonggXz&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=A78BFA&amp;text_color=CBD5E1&amp;hide_rank=true&amp;custom_title=GitHub%20Overview" alt="BonggXz GitHub statistics" />
-  </a>
-  <a href="https://github.com/BonggXz?tab=repositories">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BonggXz&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;border_radius=12&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;custom_title=Languages%20Across%20Repositories" alt="Languages used across BonggXz's public repositories" />
+  <a href="https://github.com/BonggXz?tab=overview">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BonggXz&amp;theme=github_dark" alt="Contribution summary" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BonggXz?tab=overview">
-    <img width="72%" src="https://streak-stats.demolab.com/?user=BonggXz&amp;hide_border=true&amp;border_radius=12&amp;background=0D1117&amp;stroke=21262D&amp;ring=A78BFA&amp;fire=38BDF8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=38BDF8&amp;sideLabels=CBD5E1&amp;dates=94A3B8" alt="BonggXz contribution streak: total contributions, current streak, and longest streak" />
-  </a>
-</p>
-
-###  Contribution activity
-
-<p align="center">
-  <a href="https://github.com/BonggXz?tab=overview">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BonggXz&amp;bg_color=0D1117&amp;color=94A3B8&amp;title_color=38BDF8&amp;line=38BDF8&amp;point=A78BFA&amp;area_color=7C3AED&amp;area=true&amp;hide_border=true&amp;radius=12&amp;days=31&amp;custom_title=Contribution%20Activity%20%C2%B7%20Last%2031%20Days" alt="BonggXz's contribution activity over the last 31 days" />
-  </a>
+  <sub><a href="https://github.com/BonggXz?tab=overview">Explore my contribution history on GitHub ↗</a></sub>
 </p>
 
 <br />
 
-###  Let's connect
+### ◈ Let's connect
 
 <p align="center">Have a project in mind? Let's talk.</p>
 
@@ -93,5 +98,5 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:172554,100:7C3AED&amp;height=100&amp;section=footer" alt="Blue and violet wave footer" />
 
 <!-- Widgets: Capsule Render · Readme Typing SVG · Shields.io · Skill Icons -->
-<!-- Statistics: GitHub Stats Extended · GitHub Readme Streak Stats · GitHub Readme Activity Graph -->
+<!-- Statistics: GitHub Stats Extended · GitHub Profile Summary Cards -->
 <!-- Third-party cards may be cached or temporarily unavailable. No tokens are embedded in this file. -->
