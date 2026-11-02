@@ -19,7 +19,7 @@
 
 <br />
 
-### ◈ About me
+###  About me
 
 I build across **IoT, web development, and Roblox** — connecting devices, interfaces, and interactive experiences. I enjoy turning ideas into useful systems with clear design and thoughtful details.
 
@@ -29,7 +29,7 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
 
 <br />
 
-### ◈ Tech stack
+###  Tech stack
 
 <p align="center"><sub>WEB & INTERFACES</sub></p>
 <p align="center">
@@ -48,7 +48,7 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
 
 <br />
 
-### ◈ GitHub overview
+###  GitHub overview
 
 <!-- Top-aligned cells keep cards aligned despite different intrinsic heights. -->
 <table width="100%">
@@ -66,7 +66,7 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
   </tr>
 </table>
 
-### ◈ Contribution activity
+###  Contribution activity
 
 <!-- Summary card replaces the unavailable streak and activity-graph services. -->
 <p align="center">
@@ -81,7 +81,7 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
 
 <br />
 
-### ◈ Let's connect
+###  Let's connect
 
 <p align="center">Have a project in mind? Let's talk.</p>
 
