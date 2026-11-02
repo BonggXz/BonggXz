@@ -19,7 +19,7 @@
 
 <br />
 
-### ◈ About me
+###  About me
 
 I build across **IoT, web development, and Roblox** — connecting devices, interfaces, and interactive experiences. I enjoy turning ideas into useful systems with clear design and thoughtful details.
 
@@ -29,7 +29,7 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
 
 <br />
 
-### ◈ Tech stack
+###  Tech stack
 
 <p align="center"><sub>WEB & INTERFACES</sub></p>
 <p align="center">
@@ -48,7 +48,7 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
 
 <br />
 
-### ◈ GitHub overview
+###  GitHub overview
 
 <!-- Dynamic cards display the data available to their respective providers. -->
 <p align="center">
@@ -66,7 +66,7 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
   </a>
 </p>
 
-### ◈ Contribution activity
+###  Contribution activity
 
 <p align="center">
   <a href="https://github.com/BonggXz?tab=overview">
@@ -76,7 +76,7 @@ I build across **IoT, web development, and Roblox** — connecting devices, inte
 
 <br />
 
-### ◈ Let's connect
+###  Let's connect
 
 <p align="center">Have a project in mind? Let's talk.</p>
 
