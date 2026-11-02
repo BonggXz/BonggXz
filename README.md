@@ -1,69 +1,47 @@
-<!-- =========================
-   BonggXz — Dark / Clean / Futuristic
-   ========================= -->
+<div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:111827&height=160&section=header&text=BonggXz&fontSize=54&fontColor=E5E7EB&fontAlignY=36" />
+# BonggXz
 
-<!-- Typing Mode -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=IoT%20Developer;Web%20Developer;Roblox%20Developer%20(Luau);Dark%20%7C%20Clean%20%7C%20Futuristic%20Builds&center=true&width=980&height=52&font=Fira%20Code&pause=1100&color=93C5FD"
-    alt="Typing SVG"
-  />
-</p>
+**IoT Developer · Web Developer · Roblox Developer**
 
-<!-- Minimal Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BonggXz&style=flat-square&abbreviated=true&color=111827" alt="views" />
-  <img src="https://img.shields.io/github/followers/BonggXz?style=flat-square&color=111827" alt="followers" />
-  <img src="https://img.shields.io/github/stars/BonggXz?style=flat-square&color=111827" alt="stars" />
-</p>
+Building connected devices, thoughtful interfaces, and interactive experiences.
 
-<h3 align="center">IoT • Web • Roblox — shipping systems that feel effortless.</h3>
+[Email](mailto:bonggxzz@gmail.com) · [Repositories](https://github.com/BonggXz?tab=repositories) · [Roblox](https://www.roblox.com/search/users?keyword=BonggXzz)
 
-<br/>
+</div>
 
-<!-- Tech Icons (clean + futuristic) -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,js,ts,nodejs,react,nextjs,tailwind,html,css,mysql,mongodb,docker,git,lua&perline=9" />
-</p>
+---
 
-<br/>
+### About
 
-<!-- GitHub Signals (dark theme) -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BonggXz&show_icons=true&hide_title=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonggXz&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+I work across IoT, web development, and Roblox, connecting hardware, software, and interaction. My approach is simple: make things useful, keep the experience clear, and pay attention to the details.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BonggXz&theme=github-dark-blue&hide_border=true" alt="streak" />
-</p>
+### What I build
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BonggXz&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
+| Focus | Work |
+| :--- | :--- |
+| **IoT & embedded systems** | Connected devices, sensor integrations, and monitoring tools. |
+| **Web development** | Responsive interfaces, dashboards, and web applications. |
+| **Roblox development** | Gameplay systems and interactive experiences built with Luau. |
+
+### Tech stack
+
+**Embedded** &nbsp; `Arduino` `C` `C++`
+
+**Web** &nbsp; `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `HTML` `CSS`
+
+**Backend & data** &nbsp; `Node.js` `MySQL` `MongoDB`
+
+**Game development** &nbsp; `Roblox Studio` `Luau`
+
+**Tools** &nbsp; `Git` `Docker`
+
+### Connect
+
+For project discussions and collaboration: **[bonggxzz@gmail.com](mailto:bonggxzz@gmail.com)**
+
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BonggXz&hide_border=true&area=true&theme=github-compact" alt="activity graph" />
+  <sub>Connected systems. Clear interfaces. Purposeful experiences.</sub>
 </p>
-
-<br/>
-
-<!-- Connect (icons only) -->
-<p align="center">
-  <a href="mailto:bonggxzz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bonggxzz%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=E5E7EB" />
-  </a>
-  <a href="https://www.roblox.com/search/users?keyword=BonggXzz">
-    <img src="https://img.shields.io/badge/Roblox-BonggXzz-111827?style=for-the-badge&logo=roblox&logoColor=E5E7EB" />
-  </a>
-  <!-- Ganti link di bawah dengan invite Discord server kamu -->
-  <a href="https://discord.gg/YOUR_INVITE_CODE">
-    <img src="https://img.shields.io/badge/Discord%20Server-Join-111827?style=for-the-badge&logo=discord&logoColor=E5E7EB" />
-  </a>
-</p>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1220&height=120&section=footer" />
